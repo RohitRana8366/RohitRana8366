@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rohit Rana  
 
-🚀 Aspiring **Machine Learning Engineer** | 💻 Passionate about **Python, Data Science, and AI**  
+🚀 Aspiring **Software Engineer** | 💻 Passionate about **Python, Data Science, and AI**  
 
 ---
 
